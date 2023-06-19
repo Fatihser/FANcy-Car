@@ -1,4 +1,4 @@
-# FANcy-Car
+## FANcy-Car
 Google Oyun ve Uygulama Akademisi bootcamp projesi
 
 **Takım İsmi**: Takım Unity-94
@@ -13,11 +13,11 @@ Alperen Erdem: Product Owner / Developer
 
 **Ürün İsmi:** FANcy Car
 
-**Sprint notları:**
+**#Sprint notları:**
 
 ---
 
-**_SPRINT-1_**
+# SPRINT-1
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 

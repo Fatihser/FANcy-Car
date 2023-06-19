@@ -13,11 +13,13 @@ Alperen Erdem: Product Owner / Developer
 
 **Ürün İsmi:** FANcy Car
 
-**Sprint notları:** Ürün fikrine karar verildi, arka plan seçilip ürün eklentileri bulundu.
+
 
 ---
 
 # SPRINT-1
+
+**Sprint notları:** Ürün fikrine karar verildi, arka plan seçilip ürün eklentileri bulundu.
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 

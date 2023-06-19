@@ -15,6 +15,8 @@ Alperen Erdem: Product Owner / Developer
 
 **Sprint notları:**
 
+---
+
 **_SPRINT-1_**
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan

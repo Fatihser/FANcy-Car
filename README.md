@@ -43,6 +43,8 @@ paylaşılmaktadır :
 yalnızca ürün için asset'ler toplayıp, ürün fikrini ortaya koyma üzerine
 kurulmuştur.
 
+![Capture](https://github.com/Fatihser/FANcy-Car/assets/58585164/538f6adf-95b7-48e9-80f9-0d80b245420a)
+
 **Sprint board update**: Sprint board screenshotları:
 
 ![image2](https://github.com/Fatihser/FANcy-Car/assets/58585164/72f9cdaa-c43d-4a29-bbd2-3693434d7bcd)
@@ -53,6 +55,7 @@ kurulmuştur.
 > **Sprint Review katılımcıları**: Nilsu Uğuz
 
 -   **Sprint Retrospective:**
+
 
     -   Yaptığımız işler konuşuldu (final haftası nedeniyle yavaş kalma
         durumumuzu düşünerek hızlandırmamız gerektiği kararı verildi).

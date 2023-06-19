@@ -13,7 +13,7 @@ Alperen Erdem: Product Owner / Developer
 
 **Ürün İsmi:** FANcy Car
 
-**#Sprint notları:**
+**Sprint notları:** Ürün fikrine karar verildi, arka plan seçilip ürün eklentileri bulundu.
 
 ---
 
@@ -36,6 +36,7 @@ Daily Scrum: Daily Scrum toplantılarını zamansal sebeplerden ötürü
 Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı
 örneği jpeg veya Word olarak Readme'de tarafınıza
 paylaşılmaktadır : 
+https://docs.google.com/document/d/1eRW-xJ-n6IBQzNxC-1OBkt_HSfSQcZywZU5dhBDPrLQ/edit
 ![image1](https://github.com/Fatihser/FANcy-Car/assets/58585164/e5ad47fb-0e73-4a49-8d16-9ebc16a9e587)
 
 

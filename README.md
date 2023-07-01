@@ -1,3 +1,5 @@
+![r4](https://github.com/Fatihser/FANcy-Car/assets/58585164/80e49c88-dd98-46fc-8736-cb0440d332c2)
+![r3](https://github.com/Fatihser/FANcy-Car/assets/58585164/df3faaf1-b7f1-4832-afab-b111987dd5ca)
 ## FANcy-Car
 Google Oyun ve Uygulama Akademisi bootcamp projesi
 
@@ -69,3 +71,30 @@ kurulmuştur.
 
     -   Bundan sonraki adımlarda daha iletişim halinde olmamız
         gerektiğine karar verdik
+---
+
+# SPRINT-2
+
+Daily Scrum SS’leri (2)
+
+![r1](https://github.com/Fatihser/FANcy-Car/assets/58585164/a7fc84cc-9a17-48fe-8eec-79106b4e9344)
+
+![r2](https://github.com/Fatihser/FANcy-Car/assets/58585164/5c498c34-54cb-4039-a9a7-47baf70a3cc3)
+
+![r3](https://github.com/Fatihser/FANcy-Car/assets/58585164/28910a41-d7c1-40fc-a3f0-ab915bba080e)
+
+![r4](https://github.com/Fatihser/FANcy-Car/assets/58585164/49c83323-1ab8-4095-a7f3-90981b889c44)
+
+
+Genel toplantılarımızdan genel bir not:
+
+
+![r5](https://github.com/Fatihser/FANcy-Car/assets/58585164/1ced7b76-7971-4fd9-9776-6c4e40ce816f)
+
+Projeden ekran goruntuleri :
+
+![ss1](https://github.com/Fatihser/FANcy-Car/assets/58585164/618592f8-7861-4a78-afa5-e171cb7a37b7)
+
+![ss2](https://github.com/Fatihser/FANcy-Car/assets/58585164/773c285a-9a5e-4032-aad3-a30511ff26a3)
+
+![ss3](https://github.com/Fatihser/FANcy-Car/assets/58585164/a83d77b2-bd3c-4e95-b40a-accb35d17cac)

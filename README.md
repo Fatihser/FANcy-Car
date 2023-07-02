@@ -1,5 +1,3 @@
-![r4](https://github.com/Fatihser/FANcy-Car/assets/58585164/80e49c88-dd98-46fc-8736-cb0440d332c2)
-![r3](https://github.com/Fatihser/FANcy-Car/assets/58585164/df3faaf1-b7f1-4832-afab-b111987dd5ca)
 ## FANcy-Car
 Google Oyun ve Uygulama Akademisi bootcamp projesi
 
@@ -74,8 +72,10 @@ kurulmuştur.
 ---
 
 # SPRINT-2
+Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
 
-Daily Scrum SS’leri (2)
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
 
 ![r1](https://github.com/Fatihser/FANcy-Car/assets/58585164/a7fc84cc-9a17-48fe-8eec-79106b4e9344)
 
@@ -85,16 +85,25 @@ Daily Scrum SS’leri (2)
 
 ![r4](https://github.com/Fatihser/FANcy-Car/assets/58585164/49c83323-1ab8-4095-a7f3-90981b889c44)
 
+Sprint board update: Sprint board screenshotları:
 
-Genel toplantılarımızdan genel bir not:
+![r6](https://github.com/Fatihser/FANcy-Car/assets/58585164/008bfd03-3136-4cd6-8195-1de5ae097448)
 
-
-![r5](https://github.com/Fatihser/FANcy-Car/assets/58585164/1ced7b76-7971-4fd9-9776-6c4e40ce816f)
-
-Projeden ekran goruntuleri :
+Ürün Durumu: Ekran görüntüleri:
 
 ![ss1](https://github.com/Fatihser/FANcy-Car/assets/58585164/618592f8-7861-4a78-afa5-e171cb7a37b7)
 
 ![ss2](https://github.com/Fatihser/FANcy-Car/assets/58585164/773c285a-9a5e-4032-aad3-a30511ff26a3)
 
 ![ss3](https://github.com/Fatihser/FANcy-Car/assets/58585164/a83d77b2-bd3c-4e95-b40a-accb35d17cac)
+
+Sprint Review: Alınan kararlar: Assetlerimizin çeşitliliği konusunda eksiklikler olduğu ve yeni bir şeyler eklenmesi kararı alınmıştır. En kısa zamanda arabaların ve diğer modellerin ayarlamalarını yapmayı planlamaktayız. Ayarlamalar biter bitmez bu assetler projeye entegre edilecektir.
+Sprint Review katılımcıları: Nilsu Uguz
+Sprint Retrospective:
+Takım üyeleriyle iletişimimizin gelecek süreçte daha yoğun olması gerektiği kararı verilmiştir.
+Ayrıca yukarıda belirtilen assetler projeye dahil olduğunda oluşacak bu kabataslak görüntünün ilk boyutta bizi yanıltmasından korkmuştuk, daha sonra ise bunun bizi yönlendirebilecek bir şey olduğunu fark ettik ve bu yüzden motivasyonumuzu yüksek tutma kararı aldık.
+
+Genel toplantılarımızdan genel bir not:
+
+![r5](https://github.com/Fatihser/FANcy-Car/assets/58585164/1ced7b76-7971-4fd9-9776-6c4e40ce816f)
+

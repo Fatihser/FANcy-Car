@@ -136,11 +136,13 @@ Fancy Car Unity ile mobil platformlara gelistirilmis hyper casual turunde bir oy
 # Urun Ozellikleri
 
 -5 level bulunmakta
+
 -Basit parmaginizi kaydirma mekanigi ile oyunu oynayabilirsiniz.
 
-#Hedef Kitle
+# Hedef Kitle
 
 -Cocuklar 
+
 -Basit zaman gecirmelik oyun oynamak isteyen herkes.
 
 

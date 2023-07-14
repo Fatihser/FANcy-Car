@@ -107,3 +107,26 @@ Genel toplantılarımızdan genel bir not:
 
 ![r5](https://github.com/Fatihser/FANcy-Car/assets/58585164/1ced7b76-7971-4fd9-9776-6c4e40ce816f)
 
+# Sprint 3 
+Sprint içinde tamamlanması tahmin edilen puan: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır. (Biz sprint puanlamalarını kendimizce sprint büyüklüklerine, yani yapılacak işlerin fazla ve azlığına göre ayarlamıştık. Bundan Dolayı son iki sprint 120 olup ilk sprint puanı 100’dür.)
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+https://docs.google.com/document/d/1ZiJZ6OiEmdvRMvqsJZC8rIST4DdcuTCeHbZKpevUoTM/edit 
+print board update: Sprint board screenshotları: 
+
+![aa](https://github.com/Fatihser/FANcy-Car/assets/58585164/cb214ac5-a5f5-4397-858c-09cb245a6f21)
+ 
+Ürün Durumu: Ekran görüntüleri:  
+
+![bb](https://github.com/Fatihser/FANcy-Car/assets/58585164/b2bfd262-7479-433b-9ed1-c30a85f7adf1)
+
+![cc](https://github.com/Fatihser/FANcy-Car/assets/58585164/f2d84feb-bc2c-42e9-a90b-56370b29d9cd)
+
+
+
+Sprint Review: 
+
+Alınan kararlar: Uygulanabilirliği test edilmiş, dosyanın ios çıktısı ve pc kodunun revize ewdilmesinin zor olması bizi yavaşlatacağını düşünüp, yalnızca apk halinde sisteme yüklenecektir.
+ Sprint Review katılımcıları: Nilsu Uğuz, Fatih Süleyman Er, Alperen Erdem
+
+

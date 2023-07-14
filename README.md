@@ -127,6 +127,21 @@ print board update: Sprint board screenshotları:
 Sprint Review: 
 
 Alınan kararlar: Uygulanabilirliği test edilmiş, dosyanın ios çıktısı ve pc kodunun revize ewdilmesinin zor olması bizi yavaşlatacağını düşünüp, yalnızca apk halinde sisteme yüklenecektir.
- Sprint Review katılımcıları: Nilsu Uğuz, Fatih Süleyman Er, Alperen Erdem
+Sprint Review katılımcıları: Nilsu Uğuz, Fatih Süleyman Er, Alperen Erdem
+
+# Urun Aciklamasi
+
+Fancy Car Unity ile mobil platformlara gelistirilmis hyper casual turunde bir oyundur. Oyunumuzda parmaginizi kaydirarak arabanizi yonlendiriyorsunuz amac zararli nesnelerden kacarak(bariyer , lastik kapani , blok ) en cok araba parcasi toplarak ( vites , direksiyon , tekerlek ) bolumun sonundaki gaz istasyonuna erismek , gaz istasyonuna erisildiginde seviye bitiyor ve diger seviyeye gecebiliyorsunuz. Suanki asamamizda oyunda 5 seviye bulunmakta.
+
+# Urun Ozellikleri
+
+-5 level bulunmakta
+-Basit parmaginizi kaydirma mekanigi ile oyunu oynayabilirsiniz.
+
+#Hedef Kitle
+
+-Cocuklar 
+-Basit zaman gecirmelik oyun oynamak isteyen herkes.
+
 
 

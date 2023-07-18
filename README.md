@@ -145,5 +145,8 @@ Fancy Car Unity ile mobil platformlara gelistirilmis hyper casual turunde bir oy
 
 -Basit zaman gecirmelik oyun oynamak isteyen herkes.
 
+# Sprint Review
+
+• İşlerin daha sağlıklı olabilmesi adına iletişimimizi güçlendirmemiz gerektiği, herkesin ne yaptığını söylemesi gerektiğini, bunun bize yardımcı olacağını konuştuk.
 
 
